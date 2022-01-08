@@ -11,8 +11,7 @@ h2{
 }
 .fontcolor{
     color: brown;
-}
-section{
+}.flex-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -38,4 +37,7 @@ section{
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.experience{
+
 }
