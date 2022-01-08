@@ -39,5 +39,28 @@ h2{
     background-position: right;
 }
 .experience{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
 
+}
+.box-shadow{
+    width: 40%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px darkgrey;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+#full-web-border{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue,rgb(243, 11, 154) );
+    border-image-slice: 1;
+}
+#baby-web-border{
+    border-left: 10px solid;
+    border-image: linear-gradient(orange, brown );
+    border-image-slice: 1;
+}
+footer{
+    text-align: center ;
 }
